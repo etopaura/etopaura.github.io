@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://etopaura.github.io/MjX/sitemap_index.txt
+Sitemap: https://etopaura.github.io/UFn/sitemap_index.txt
+Sitemap: https://etopaura.github.io/erD/sitemap_index.txt
+Sitemap: https://etopaura.github.io/vXY/sitemap_index.txt
